@@ -1,8 +1,8 @@
 # APCSA Freedom Project
-by Your Name Here
+by Felix Zhu
 
 ## Context
-Text
+As an APCS Student I see that having big projects is crucial to one's growth. Independently and corporately make something through knowledge that was gained through research. The Freedom Project like it’s name suggests, give Students the ability to decide what they wish to learn.
 
 ## Content
 Text
