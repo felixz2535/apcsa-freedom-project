@@ -23,7 +23,7 @@ Brainstorming had cause me some trouble. It is particularly hard to think of any
 ### Python
 When it comes to Python there is a lot of familiarity when I code due to its many similarities in pretty much everything with Java. The only twist is that Python 2 is not the same as Python 3 as shown [here](https://learntocodewith.me/programming/python/python-2-vs-python-3/). The image below point out the obvious changes between the versions. Despite all that the differences isn’t that much so I can continue to rely on [W3 School](https://www.w3schools.com/python/) and [CodeAcademy](https://www.codecademy.com/learn/learn-python) for Python 2.<br>
 
-![2v3](../2v3.png = 268x468)
+![2v3](../2v3.png)
 
 ### Knowledge
 The course that I’m currently taking is AP Computer Science A which gives a general  overview on how to program in Java. The primary tool that I will be focusing on is Python which shares a lot of similarities with Java because of the fact that they are both Object-Oriented. As of now I am learning about Methods in AP CSA which can be comparable with with Class in Python. The terms might be really confusing because of the subtle difference they had from language to language.
