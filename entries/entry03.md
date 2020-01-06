@@ -10,6 +10,7 @@ Although **planning** phrase is a bit far ahead, it really depends on how fast w
 ### Knowledge
 There is just too much similarity when it comes to Java and Python so the knowledge I obtain in class can be applicable to Python by default. One good example would be the for-each loop lesson that I learned in Java. If you were to look at the code they are practically the same other than the syntax.<br>
 <br>
+In Java:
 ```Java
     for (String w: words) {
 	    w = w.toUppercase();
@@ -17,6 +18,7 @@ There is just too much similarity when it comes to Java and Python so the knowle
     }
 
 ```
+In Python:
 ```Python
     for w in words:
 	    w = w.upper()
@@ -24,7 +26,7 @@ There is just too much similarity when it comes to Java and Python so the knowle
 
 ```
 ### Skills
-While looking through the code provide I can see elements of Java in it, however there is plenty that we are not able to understand. This is where **Logical reasoning** comes in as a life saver, I first connect the dots between where the variable is initialized and where it is called to understand how might the program run. Along with the Python comments provided by the person who wrote the code you can get a grip of what you should and should not change.<br>
+While looking through source code provide I can see elements of Java in it, however there is plenty that we are not able to understand. This is where **Logical reasoning** comes in as a life saver, I first connect the dots between where the variable is initialized and where it is called to understand how might the program run. Along with the Python comments provided by the person who wrote the code you can get a grip of what you should and should not change.<br>
 <br>
 **How to learn** is always crucial when it comes to learning a new language in general. In this case, Python is the language I’m learning and it is not particularly hard to learn but it does require you to look up lessons broken into the basic component much like how I learn Java. However we have yet to master the language due to the fact that you can learn a language by just knowing the knowledge but to use it in applications as well.<br>
 ### Conclusion
