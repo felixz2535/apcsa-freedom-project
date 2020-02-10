@@ -2,7 +2,7 @@
 ##### 2/9/20
 
 ### Update
-During the past few weeks me and my partner had been playing around with Halite. Generally what we did was adding algorithms that help dictates the movement of the ships. For example, some ships would often get stuck due to the fact that the base and its surrounding are occupied by a ship making it impossible for the ships to move. The algorithm that helps solve this issue is actually built in where the ships can swap locations and go about their time collecting more halite. Another function that my partner implemented was the ability to chunk the map. By chunking the map the ships will go to the highest density location and get the most yield. See more in depth explanation through [ZhiYuan’s Blog Entry 4](https://github.com/zhiyuanc1718/apcsa-freedom-project/blob/master/entries/entry04.md). This basically concludes our progress for the past few days. <br><br>
+During the past few weeks me and my partner had been playing around with Halite. Generally what we did was adding algorithms that help dictates the movement of the ships. For example, some ships would often get stuck due to the fact that the base and its surrounding are occupied by a ship making it impossible for the ships to move. The algorithm that helps solve this issue is actually a built-in method where it instructs ships to swap locations. This freed up spaces around the base and prevented clogging. Another function that my partner implemented was the ability to chunk the map. By chunking the map the ships will go to the highest density location and get the most yield. See more in depth explanation through [ZhiYuan’s Blog Entry 4](https://github.com/zhiyuanc1718/apcsa-freedom-project/blob/master/entries/entry04.md). This basically concludes our progress for the past few days. <br><br>
 
 Something that we also did was logging the game to a .txt file hoping that it will come of use when feeding it to the AI.
 
@@ -34,6 +34,7 @@ Something that we also did was logging the game to a .txt file hoping that it wi
 
 ```
 
+### Most Recent Steps
 Personally I have started looking into Machine Learning where I found [sentdex’s tutorial](https://pythonprogramming.net/machine-learning-tutorials/) and [Joshua Stoker's documentation](https://stakernotes.com/diamond-ranked-ml-for-halite3/) to be really helpful. sentdex is a content creator on Youtube with many tutorials on python applications such as machine learning. He also has a website that logs his code along with his explanation. Joshua Stoker has a really in depth explanation as to how you can apply machine learning to Halite 3 specify. <br><br>
 
 ### Engineering Design Process
