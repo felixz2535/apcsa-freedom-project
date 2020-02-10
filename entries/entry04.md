@@ -35,16 +35,16 @@ Something that we also did was logging the game to a .txt file hoping that it wi
 ```
 
 ### Most Recent Steps
-Personally I have started looking into Machine Learning where I found [sentdex’s tutorial](https://pythonprogramming.net/machine-learning-tutorials/) and [Joshua Stoker's documentation](https://stakernotes.com/diamond-ranked-ml-for-halite3/) to be really helpful. sentdex is a content creator on Youtube with many tutorials on python applications such as machine learning. He also has a website that logs his code along with his explanation. Joshua Stoker has a really in depth explanation as to how you can apply machine learning to Halite 3 specify. <br><br>
+Personally I have started looking into Machine Learning where I found [Sentdex’s tutorial](https://pythonprogramming.net/machine-learning-tutorials/) and [Joshua Stoker's documentation](https://stakernotes.com/diamond-ranked-ml-for-halite3/) to be really helpful. Sentdex is a content creator on Youtube with many tutorials on python applications such as machine learning. He also has a website that logs his code along with his explanation. Joshua Stoker has a really in depth explanation as to how you can apply machine learning to Halite 3 specifically. <br><br>
 
 ### Engineering Design Process
-As of current we are reaching the end of the **prototype** stage. The purpose of building a bot gets a feel for the mechanics behind Halite and enriches our understanding of Python. Moving on we will be finally going into machine learning to program our bot.<br><br>
+As of current we are reaching the end of the **prototype** stage. The purpose of building a bot is to gets a feel for the mechanics behind Halite and enriches our understanding of Python. Moving on we will be finally going use machine learning to program our bot.<br><br>
 
 ### Skills
 In terms of skills me and my partner had gained quite a few over these weeks. We were challenged by the actions of the bot having to find **creative** solutions to change whatever is necessary. **Debugging** skills is also involved in making the code work. Often it's the smallest thing like indentation that led to error logs.<br><br>
 
 ### Knowledge
-Generally saying there is hardly any difference in Python and Java. Something that I find interesting that Java doesn’t have is a range() method. This method is responsible for printing a sequence. This method is often accompanied by for loops which makes it really helpful. Java on the other hand does need this since it is for loop you can set the sequence yourself. <br><br>
+Generally saying there is hardly any difference in Python and Java. Something that I find interesting that Java doesn’t have is a range() method. This method is responsible for printing a sequence. This method is often accompanied by for loops which makes it really helpful. Java on the other hand does need this since it's for loop allows you to set the sequence yourself. <br><br>
 ```Python
     x = range(3, 20, 2)
     for n in x:
