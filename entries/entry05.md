@@ -2,7 +2,7 @@
 ##### 3/16/20
 
 ### Update
-In the past weeks me and my partner ZhiYuan have continued our research on Machine Learning. I personally looked into the mathematical equations that are required in Machine Learning to better understand the code as well as familiarizing myself with syntax and method of the new python module mentioned in my previous blog entry. As of now we do have a Minimum Viable Product which is the algorithmic bot. However this does not conclude this project since we aim to make a Artificial Intelligence bot from the very beginning. My partners’s main focus as of now is improving the algorithmic bot. We hope that one day we can match the bot against each other to compare the strength and weakness of AI and algorithm.
+In the past weeks me and my partner, ZhiYuan, have continued our research on Machine Learning. I personally looked into the mathematical equations that are required in Machine Learning in order to better understand the code as well as familiarizing myself with syntax and method of the new python module mentioned in my previous blog entry. As of now we do have a Minimum Viable Product which is the algorithmic bot. However this does not conclude this project since we aim to make a Artificial Intelligence bot from the very beginning. My partners’s main focus as of now is improving the algorithmic bot. We hope that one day we can match the bot against each other to compare the strength and weakness of AI and algorithm.
 <br><br>
 ### Engineering Design Process
 As for the Engineering Design Process currently we are in the **planning** phase. We have decided to create a q-learning bot as mentioned in the previous blog entry but there is much to be done beside declaring where we are going. We touch upon a bit of the **prototype** phrase with the help of online tutorials.
@@ -23,7 +23,7 @@ The tutorial that I went through on Halite 3 ML left me confused. After discussi
 ### Plans
 
 So far my knowledge on ML is limited and can be summarized by these links [here](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
-And [here](https://machinelearningmastery.com/introduction-matrices-machine-learning/#:~:text=A%20matrix%20is%20a%20two,(a%20table)%20of%20numbers.&text=It%20is%20more%20common%20to%20see%20matrices%20defined%20using%20a%20horizontal%20notation.&text=Further%2C%20a%20vector%20itself%20may,one%20column%20and%20multiple%20rows.). Which both of these links functions as a nice resource in understanding the elementary of ML. My plan now is to continue to look through Andrew Ng’s lesson as it does seem to help while I try decipher the codes from the other ML tutorials.
+And [here](https://machinelearningmastery.com/introduction-matrices-machine-learning/#:~:text=A%20matrix%20is%20a%20two,(a%20table)%20of%20numbers.&text=It%20is%20more%20common%20to%20see%20matrices%20defined%20using%20a%20horizontal%20notation.&text=Further%2C%20a%20vector%20itself%20may,one%20column%20and%20multiple%20rows.). Which both of these links functions as nice resources in understanding the elementary of ML. My plan now is to continue to look through Andrew Ng’s lessons as it does seem to help while I try to decipher the codes from the other ML tutorials.
 
 Although I have yet to grasp the function of these codes this is a part of the code from a tutorial that I follow. It is mostly responsible in training the bot via q-learning.
 ```Python
