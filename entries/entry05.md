@@ -9,13 +9,13 @@ As for the Engineering Design Process currently we are in the **planning** phase
 <br><br>
 ### Knowledge
 While going through the online ML Lessons provided by [Andrew Ng](https://online.stanford.edu/instructors/andrew-ng), professor at Stanford. I came across the topic of Vectors and Matrices which for me at first reminded me of arrays in Java. This familiarity soon came to an end as it is much more complex than that since you can apply mathematical operation to it.
-![alt text](MatrixandVector.png)
+![alt text](../MatrixandVector.png)
 <br><br>
 ### Skills
-How to Google
+#### How to Google
 Machine Learning is a popular topic. I find myself in an infinite loop of options and going through countless videos simply by googling the topic. One worthy mention is Tech with Tim, a youtuber that specialize in python, who has a neat website that broke down his code on his well documented [website](https://techwithtim.net/tutorials/machine-learning-python/introduction/).
 <br>
-Problem Decomposing
+#### Problem Decomposing
 The tutorial that I went through on Halite 3 ML left me confused. After discussing with my partner he suggested that I try breaking it down and that's what I did.
 <br><br>
 ### Plans
