@@ -9,7 +9,7 @@ As for the Engineering Design Process currently we are in the **planning** phase
 <br><br>
 ### Knowledge
 While going through the online ML Lessons provided by [Andrew Ng](https://online.stanford.edu/instructors/andrew-ng), professor at Stanford. I came across the topic of Vectors and Matrices which for me at first reminded me of arrays in Java. This familiarity soon came to an end as it is much more complex than that since you can apply mathematical operation to it.
-![alt text](MaxtrixandVector.png)
+![alt text](MatrixandVector.png)
 <br><br>
 ### Skills
 How to Google
@@ -23,7 +23,7 @@ The tutorial that I went through on Halite 3 ML left me confused. After discussi
 So far my knowledge on ML is limited and can be summarized by these links [here](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 And [here](https://machinelearningmastery.com/introduction-matrices-machine-learning/#:~:text=A%20matrix%20is%20a%20two,(a%20table)%20of%20numbers.&text=It%20is%20more%20common%20to%20see%20matrices%20defined%20using%20a%20horizontal%20notation.&text=Further%2C%20a%20vector%20itself%20may,one%20column%20and%20multiple%20rows.). Which both of these links functions as a nice resource in understanding the elementary of ML. My plan now is to continue to look through Andrew Ng’s lesson as it does seem to help while I try decipher the codes from the other ML tutorials.
 
-Although I have yet to grasp the function of the codes this is a part of the code from a tutorial that I follow. It is mostly responsible in training the bot via q-learning.
+Although I have yet to grasp the function of these codes this is a part of the code from a tutorial that I follow. It is mostly responsible in training the bot via q-learning.
 ```Python
     if game.turn_number == constants.MAX_TURNS:
         dones[-1]=True
