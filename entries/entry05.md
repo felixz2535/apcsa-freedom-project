@@ -8,8 +8,10 @@ In the past weeks me and my partner ZhiYuan have continued our research on Machi
 As for the Engineering Design Process currently we are in the **planning** phase. We have decided to create a q-learning bot as mentioned in the previous blog entry but there is much to be done beside declaring where we are going. We touch upon a bit of the **prototype** phrase with the help of online tutorials.
 <br><br>
 ### Knowledge
-While going through the online ML Lessons provided by [Andrew Ng](https://online.stanford.edu/instructors/andrew-ng), professor at Stanford. I came across the topic of Vectors and Matrices which for me at first reminded me of arrays in Java. This familiarity soon came to an end as it is much more complex than that since you can apply mathematical operation to it.
-![alt text](../MatrixandVector.png)
+While going through the online ML Lessons provided by [Andrew Ng](https://online.stanford.edu/instructors/andrew-ng), a professor at Stanford. I came across the topic of Vectors and Matrices which for me at first reminded me of arrays in Java. This familiarity soon came to an end as it is much more complex than that since you can apply mathematical operation to it.
+
+![MatrixandVector](../MatrixandVector.png)
+
 <br><br>
 ### Skills
 #### How to Google
